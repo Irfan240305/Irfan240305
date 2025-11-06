@@ -44,7 +44,7 @@ Mastering **DSA with Java** and building **AI‑enhanced full‑stack applicatio
 
 ## 📈 What I’m Working On (Now)
 - Daily **DSA in Java** — patterns, time/space trade-offs, and system design basics  
-- Shipping features to **BuyDora** and stabilizing **AI Code Translator** for a public demo
+
 
 ---
 
