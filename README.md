@@ -55,9 +55,4 @@ Mastering **DSA with Java** and building **AI‑enhanced full‑stack applicatio
 
 ---
 
-### ⭐ Bonus (Optional widgets — uncomment if you like)
-<!--
-![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan240305&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan240305&layout=compact)
--->
 
