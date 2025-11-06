@@ -54,5 +54,7 @@ Mastering **DSA with Java** and building **AI‑enhanced full‑stack applicatio
 - GitHub: https://github.com/Irfan240305
 
 ---
+📄 **Resume**
+[🔗 Google Drive Link](https://drive.google.com/file/d/1xCvTNMYYwhLMkVpd3Q5weRfHymcL75A9/view?usp=sharing)
 
 
