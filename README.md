@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Irfan Ahmed 👋
 
+**Aspiring Software Development Engineer (SDE)**  
+Mastering **DSA with Java** and building **AI‑enhanced full‑stack applications**. I love solving real problems, designing for scale, and shipping clean, reliable code.
+
+---
+
+## 🚀 About Me
+- 🎯 Preparing for top-tier **SDE roles** with a strong focus on **Data Structures & Algorithms (Java)**  
+- 🤖 Exploring **AI in products** — chatbots, smart search, and automation that improve UX and developer velocity  
+- ☁️ Comfortable with **AWS EC2**, **Docker**, and **CI/CD** using GitHub Actions  
+- 🧩 Values: *Code that solves • Products that scale • Learning that never stops*
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Java, Python, JavaScript, SQL  
+**Frameworks:** Spring Boot, React, Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Cloud/DevOps:** AWS EC2, Docker, Git, GitHub Actions  
+**Concepts:** OOP, DSA, REST APIs, Distributed Systems, Microservices, Agile
+
+---
+
+## 📦 Featured Projects
+
+
+### 1) AI Code Translator *(In Development)*
+- **Stack:** Spring Boot, Vue 3 (Vite), Gemini API, Docker, AWS EC2  
+- **Highlights:** Translates code across **12+ languages**; containerized and deployed; CI/CD with GitHub Actions; health checks + CORS configured.  
+- **Repo:** https://github.com/Irfan240305/AI-Code-Translator
+
+### 2) BuyDora — AI‑Enabled eCommerce Platform
+- **Stack:** React, Node.js, Express, MongoDB, Razorpay, OpenAI API  
+- **Highlights:** JWT‑secured APIs, real‑time cart sync, **Razorpay** webhook‑verified payments, **AI chatbot** for product discovery, deployed with **Vercel CI/CD**.  
+- **Repo:** https://github.com/Irfan240305/BuyDora---eCommerce-website
+---
+
+## 🏆 Achievements
+- Solved **100+** DSA problems on **LeetCode** / **GeeksforGeeks**  
+- Completed internships at **Infosys Springboard** and **CopterCode (IIT Madras Research Park)**
+
+---
+
+## 📈 What I’m Working On (Now)
+- Daily **DSA in Java** — patterns, time/space trade-offs, and system design basics  
+- Shipping features to **BuyDora** and stabilizing **AI Code Translator** for a public demo
+
+---
+
+## 📫 Connect
+- Email: **irfanubaidhu@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/irfan-ahmed-9539a3255/  
+- GitHub: https://github.com/Irfan240305
+
+---
+
+### ⭐ Bonus (Optional widgets — uncomment if you like)
 <!--
-**Irfan240305/Irfan240305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan240305&show_icons=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan240305&layout=compact)
 -->
+
