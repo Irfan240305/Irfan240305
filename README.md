@@ -6,7 +6,7 @@ Mastering **DSA with Java** and building **AI‑enhanced full‑stack applicatio
 ---
 
 ## 🚀 About Me
-- 🎯 Preparing for top-tier **SDE roles** with a strong focus on **Data Structures & Algorithms (Java)**  
+- 🎯 Preparing for top-tier **SDE roles** with a strong focus on **Data Structures & Algorithms (Java)** , **Spring Boot**, **SQL** and also in Object Oriented Programming. 
 - 🤖 Exploring **AI in products** — chatbots, smart search, and automation that improve UX and developer velocity  
 - ☁️ Comfortable with **AWS EC2**, **Docker**, and **CI/CD** using GitHub Actions  
 - 🧩 Values: *Code that solves • Products that scale • Learning that never stops*
