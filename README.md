@@ -1,60 +1,29 @@
-# Hi, I'm Irfan Ahmed 👋
+## Hi there 👋 I'm Irfan
 
-**Aspiring Software Development Engineer (SDE)**  
-Mastering **DSA with Java** and building **AI‑enhanced full‑stack applications**. I love solving real problems, designing for scale, and shipping clean, reliable code.
+**Backend Developer | Final-year Mechatronics Engineering Student**
 
----
+- 🔭 I build backend systems with **Java & Spring Boot**
+- 🌱 Currently sharpening **DSA** and deepening my backend engineering
+- 💡 Bringing a **Mechatronics** background into software — interested in backend, systems, and AI/ML for predictive maintenance
+- 🎯 Seeking **SDE-1 / Backend Developer** roles
+- 📫 Reach me on LinkedIn below
 
-## 🚀 About Me
-- 🎯 Preparing for top-tier **SDE roles** with a strong focus on **Data Structures & Algorithms (Java)** , **Spring Boot**, **SQL** and also in Object Oriented Programming. 
-- 🤖 Exploring **AI in products** — chatbots, smart search, and automation that improve UX and developer velocity  
-- ☁️ Comfortable with **AWS EC2**, **Docker**, and **CI/CD** using GitHub Actions  
-- 🧩 Values: *Code that solves • Products that scale • Learning that never stops*
+### 🚀 Featured Project
 
----
-
-## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript, SQL  
-**Frameworks:** Spring Boot, React, Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
-**Cloud/DevOps:** AWS EC2, Docker, Git, GitHub Actions  
-**Concepts:** OOP, DSA, REST APIs, Distributed Systems, Microservices, Agile
-
----
-
-## 📦 Featured Projects
+**[OmniReserve](https://github.com/Irfan240305/Omnireserve_Project)** — A concurrent seat-reservation REST API built with Spring Boot, featuring JWT authentication, optimistic locking with retry to prevent double-booking, event-driven async processing, design patterns (Factory / Strategy / Observer), and full Docker containerization.
 
 
-### 1) AI Code Translator *(In Development)*
-- **Stack:** Spring Boot, Vue 3 (Vite), Gemini API, Docker, AWS EC2  
-- **Highlights:** Translates code across **12+ languages**; containerized and deployed; CI/CD with GitHub Actions; health checks + CORS configured.  
-- **Repo:** https://github.com/Irfan240305/AI-Code-Translator
 
-### 2) BuyDora — AI‑Enabled eCommerce Platform
-- **Stack:** React, Node.js, Express, MongoDB, Razorpay, OpenAI API  
-- **Highlights:** JWT‑secured APIs, real‑time cart sync, **Razorpay** webhook‑verified payments, **AI chatbot** for product discovery, deployed with **Vercel CI/CD**.  
-- **Repo:** https://github.com/Irfan240305/BuyDora---eCommerce-website
----
+### 🔗 Connect with me
 
-## 🏆 Achievements
-- Solved **100+** DSA problems on **LeetCode** / **GeeksforGeeks**  
-- Completed internships at **Infosys Springboard** and **CopterCode (IIT Madras Research Park)**
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irfan-ahmed-9539a3255)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:irfanubaidhu@gmail.com)
 
----
+### 🛠️ I code in
 
-## 📈 What I’m Working On (Now)
-- Daily **DSA in Java** — patterns, time/space trade-offs, and system design basics  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
 
+### 🧰 Tools & Technologies
 
----
-
-## 📫 Connect
-- Email: **irfanubaidhu@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/irfan-ahmed-9539a3255/  
-- GitHub: https://github.com/Irfan240305
-
----
-📄 **Resume**
-[🔗 Google Drive Link](https://drive.google.com/file/d/1xCvTNMYYwhLMkVpd3Q5weRfHymcL75A9/view?usp=sharing)
-
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img height="50" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
