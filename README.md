@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Irfan
 
-**Backend Developer | Final-year Mechatronics Engineering Student**
+**Backend Developer | Software Development Engineer**
 
 - 🔭 I build backend systems with **Java & Spring Boot**
 - 🌱 Currently sharpening **DSA** and deepening my backend engineering
