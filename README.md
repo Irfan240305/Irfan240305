@@ -12,6 +12,8 @@
 
 **[OmniReserve](https://github.com/Irfan240305/Omnireserve_Project)** —Production-inspired seat reservation backend built with Spring Boot, demonstrating JWT authentication, optimistic locking with automatic retry, transaction management, asynchronous event-driven processing, Factory/Strategy/Observer design patterns, and Docker-based deployment.
 
+**[BuyDora-eCommerce Website](https://github.com/Irfan240305/BuyDora---eCommerce-website)** -MERN-based e-commerce platform showcasing secure authentication, RESTful APIs, Razorpay payment gateway integration, role-based access control, and responsive frontend design.
+
 
 
 ### 🔗 Connect with me
