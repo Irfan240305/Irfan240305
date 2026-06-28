@@ -1,16 +1,16 @@
 ## Hi there 👋 I'm Irfan
 
-**Backend Developer | Software Development Engineer**
+**Backend Developer | Spring Boot | Software Development Engineer**
 
 - 🔭 I build backend systems with **Java & Spring Boot**
-- 🌱 Currently sharpening **DSA** and deepening my backend engineering
-- 💡 Bringing a **Mechatronics** background into software — interested in backend, systems, and AI/ML for predictive maintenance
+- 🌱 Currently strengthening **Data Structures & Algorithms** and expanding my **backend development skills**.
+- 💡 Transitioning from Mechatronics Engineering to Backend Software Development with a focus on scalable Java applications.
 - 🎯 Seeking **SDE-1 / Backend Developer** roles
 - 📫 Reach me on LinkedIn below
 
 ### 🚀 Featured Project
 
-**[OmniReserve](https://github.com/Irfan240305/Omnireserve_Project)** — A concurrent seat-reservation REST API built with Spring Boot, featuring JWT authentication, optimistic locking with retry to prevent double-booking, event-driven async processing, design patterns (Factory / Strategy / Observer), and full Docker containerization.
+**[OmniReserve](https://github.com/Irfan240305/Omnireserve_Project)** —Production-inspired seat reservation backend built with Spring Boot, demonstrating JWT authentication, optimistic locking with automatic retry, transaction management, asynchronous event-driven processing, Factory/Strategy/Observer design patterns, and Docker-based deployment.
 
 
 
