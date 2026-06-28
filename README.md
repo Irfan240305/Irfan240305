@@ -19,11 +19,30 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irfan-ahmed-9539a3255)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:irfanubaidhu@gmail.com)
 
-### 🛠️ I code in
+## 🛠 Tech Stack
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,maven,idea,vscode,postman" />
+</p>
 
-### 🧰 Tools & Technologies
+**Languages**
+- Java
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/docker.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img height="50" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img height="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+**Frameworks & Backend**
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- JWT Authentication
+
+**Database**
+- MySQL
+
+**Build & Tools**
+- Maven
+- Docker
+- Git
+- IntelliJ IDEA
+- VS Code
+- Postman
